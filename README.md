@@ -1,6 +1,6 @@
 ### Olá!
 
-- Sou músico e vivo da música desde os 14 anos. Em 2021 comecei a entrar no mundo da programação, sempre fui fascinado por tecnologia. Acredito que o desenvolvimento de software pode ajudar empresas e pessoas a terem uma vida melhor.
+- Sou músico e vivo da música desde os 14 anos. Sempre fui fascinado por tecnologia e em 2021 resolvi entrar no mundo da programação. 
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
 
@@ -15,8 +15,6 @@
   ##
 
 <div>
-  <a href="https://instagram.com/dodozerabass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michaeldouglas21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/dodozerabass" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"<a/>  
  	<a href = "mailto:contato.dodolopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
