@@ -1,8 +1,8 @@
-### Hey! I'm Michael Douglas.
+### Olá!
 
-- I am a musician and I have lived from music since I was 14 years old. Since 2021 I started to enter the world of programming, I have always been fascinated by technology. I believe that software development can help companies and people to have a better life.
+- Sou músico e vivo da música desde os 14 anos. Em 2021 comecei a entrar no mundo da programação, sempre fui fascinado por tecnologia. Acredito que o desenvolvimento de software pode ajudar empresas e pessoas a terem uma vida melhor.
 
-- 📚 Majoring in systems analysis and development
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 
 ##
 
