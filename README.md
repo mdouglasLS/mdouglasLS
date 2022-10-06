@@ -1,8 +1,8 @@
-### Olá!
+### 👋Hello there!
 
-- Sou músico e vivo da música desde os 14 anos. Sempre fui fascinado por tecnologia e em 2021 resolvi entrar no mundo da programação. 
+- Tenho interesse em aprender mais sobre desenvolvimento web, principalmente Backend.
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
+- Cursando Análise e Desenvolvimento de Sistemas.
 
 ##
 
